@@ -1,0 +1,7 @@
+chardet
+openai-whisper
+chromadb
+pyaudio
+pyttsx3
+SpeechRecognition
+tkinter

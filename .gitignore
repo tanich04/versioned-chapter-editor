@@ -1,0 +1,10 @@
+.env
+.chroma_storage/
+.vscode
+include
+Lib
+python310
+venv
+.venv
+__pychache__/
+*.__pychache__
