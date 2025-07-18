@@ -15,15 +15,6 @@ This project is a **version-controlled chapter editor** that helps you save, vie
 
 ---
 
-## 📸 GUI Overview
-
-| Function | Screenshot |
-|---------|------------|
-| 📝 Editor | ![Editor](screenshots/editor.png) |
-| 🔍 Search & View | ![Search](screenshots/search.png) |
-| 💾 Export | ![Export](screenshots/export.png) |
-
----
 
 ## 📦 Installation
 
